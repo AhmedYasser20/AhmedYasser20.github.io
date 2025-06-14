@@ -1,0 +1,4 @@
+baseURL = 'http://debugat3am.me/'
+languageCode = 'en-us'
+title = "DebugAt3am"
+theme = "blowfish"
