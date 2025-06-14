@@ -2,3 +2,8 @@ baseURL = 'http://debugat3am.me/'
 languageCode = 'en-us'
 title = "DebugAt3am"
 theme = "blowfish"
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"
